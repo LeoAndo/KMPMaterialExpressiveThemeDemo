@@ -6,6 +6,7 @@
 https://kmp.jetbrains.com/?android=true&ios=true&iosui=compose&desktop=true&web=true&webui=compose&includeTests=true
 
 # capture
+https://github.com/LeoAndo/KMPMaterialExpressiveThemeDemo/tree/main/capture
 
 # refs
 https://www.jetbrains.com/help/kotlin-multiplatform-dev/whats-new-compose-190.html#material-3-expressive-theme
